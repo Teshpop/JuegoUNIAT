@@ -1,6 +1,0 @@
-2023/10/17-13:55:14.753 4fb0 Creating DB D:/Documentos/UNREAL/JuegoUniParcial2/Juego/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2023/10/17-13:55:14.763 4fb0 Reusing MANIFEST D:/Documentos/UNREAL/JuegoUniParcial2/Juego/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/17-14:02:08.093 4c74 Level-0 table #5: started
-2023/10/17-14:02:08.096 4c74 Level-0 table #5: 1321 bytes OK
-2023/10/17-14:02:08.100 4c74 Delete type=0 #3
-2023/10/17-14:02:08.100 4c74 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
