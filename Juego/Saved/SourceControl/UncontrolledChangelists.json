@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Documentos/UNREAL/JuegoUNIAT/Juego/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"D:/unity/Proyectos/TdV1_P2/JuegoUNIAT/Juego/Content/pistolReload/textures/Hand_D.uasset",
 				"D:/unity/Proyectos/TdV1_P2/JuegoUNIAT/Juego/Content/pistolReload/textures/bullet_d.uasset",
 				"D:/unity/Proyectos/TdV1_P2/JuegoUNIAT/Juego/Content/pistolReload/textures/FN57_D.uasset",
